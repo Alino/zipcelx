@@ -1,5 +1,5 @@
 {
-  "name": "zipcelx",
+  "name": "zipcelx-alino",
   "version": "1.7.0",
   "description": "JSON Transformer to create .xlsx files",
   "main": "lib/legacy.js",
